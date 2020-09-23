@@ -1,7 +1,7 @@
 # roboMachine
 Хало всем! <br>
 
-Что нам нужно(По идее):<br>
+Что нам нужно(По идее):<br><br>
 Arduino<br>
 Raspberry Pi<br>
 Камера к малине<br>
